@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
-title: Customer portal account
+title: Customer Portal Account
 description: A enabler for other services
 excerpt_separator: "<!--more-->"
 baseurl: "/customer-account/"
