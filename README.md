@@ -1,6 +1,7 @@
-# Customer portal account
+# Customer Portal Account
 
-**Under construction**
+<br><br><br>
+**Under construction - coming soon!**
 
-<br>
+<br><br><br><br>
 <div>Last updated: {{site.time | date_to_string}}</div>
