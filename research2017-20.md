@@ -37,6 +37,6 @@ We also interviewed out internal staff
 ### Research about Open Banking and other account spaces
 
 
-**Work in progress**
+**more to add - Work in progress**
 
 Last updated: {{site.time | date_to_string}}
