@@ -5,7 +5,7 @@ title: User needs
 
 They come from previous research done for:
 - **MyAccount** (name of the project last time we worked on an account space - May 2019)
-- **Funding project** work
+- **Funding** project work
 - **International Networks** work which needed an account space
 
 ## Make it clear
