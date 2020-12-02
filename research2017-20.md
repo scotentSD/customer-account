@@ -38,3 +38,5 @@ We also interviewed out internal staff
 
 
 **Work in progress**
+
+Last updated: {{site.time | date_to_string}}
