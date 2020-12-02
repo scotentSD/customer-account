@@ -11,11 +11,17 @@
 
 ## Discovery 2020 and before
 
-- [Timeline of the research](timeline-2020-and-before/)
+- [Summary of the research](research-2020-and-before/) (work in progress)
 - [High level user needs](user-needs/)
 
+## User research 2020/21
+
+- will be added later
+
+
+
 <br><br>
-**Under construction - coming soon!**
+**Under construction - more coming soon!**
 
 <br><br><br><br>
 <div>Last updated: {{site.time | date_to_string}}</div>
