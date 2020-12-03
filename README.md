@@ -7,7 +7,7 @@
 - We are focusing on an SE account to start with but want to keep it flexible enough so that it can potentially become an account our partners can use too in the future
 - We are not replacing existing accounts for now, but want to use this for new services
 
-[See an overview of the customers' expectations and benefit of this work](overview/).
+[See an overview of the customers' expectations and benefits of this work](overview/).
 
 ## Discovery 2020 and before
 
