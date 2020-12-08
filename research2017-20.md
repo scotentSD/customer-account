@@ -46,10 +46,13 @@ We also interviewed our internal staff
 A lot of desk research had been done. We had looked at:
 
 #### Online portal examples
+
 - **Global Public sector** (Australian government myGov, Northern Ireland portal myINI)
+
 - **Current Scottish Public sector** (mygovscot myaccount)
 
-**Identity Verification services (ID&V)**
+#### Identity Verification services (ID&V)
+
 - **Global Public Sector**
   - Estonia government
   - Dansih Goevernment
@@ -60,6 +63,7 @@ A lot of desk research had been done. We had looked at:
   - Norway BankID
   - Findland TUPAS
   - Belgium Itsme
+  
 - **Private Sector** 
   - NorthRow
   - Amiqus
@@ -79,15 +83,17 @@ A lot of desk research had been done. We had looked at:
   - Endole
   - Bureau Van Dijk
   - PassFort
+  
 - **Digital Identity Framework** 
   - Trusted Digital Identity Framework - Australia
+  
 - **Current Scottish / UK Public Sector** 
   - Digital Identity Scotland
   - MyBusiness ID from Business Gateway
   - Northern Ireland Direct
   - GOV.UK Verify
 
-**Additional Research**
+#### Additional Research
 - Open Banking
 - Companies House
 - API Service providers (Codat)
