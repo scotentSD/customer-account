@@ -11,12 +11,12 @@
 
 ## Discovery 2020 and before
 
-- [Summary of the research](research2017-20/) (work in progress)
+- [Summary of the research](research2017-20/)
 - [High level user needs](user-needs/)
 
 ## User research 2020/21
 
-- will be added later
+- will be added soon
 
 
 
