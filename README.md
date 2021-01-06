@@ -16,7 +16,7 @@
 
 ## User research 2021
 
-- [timeline of the research](timeline/)
+- [Timeline of the research](timeline/)
 
 ## First service the customer portal will enable: Funding
 
