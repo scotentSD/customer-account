@@ -14,14 +14,14 @@
 - [Summary of the research](research2017-20/)
 - [High level user needs](user-needs/)
 
-## User research 2020/21
+## User research 2021
 
-- will be added soon
+- [timeline of the research](timeline/)
 
 
 
 <br><br>
-**Under construction - more coming soon!**
+
 
 <br><br><br><br>
 <div>Last updated: {{site.time | date_to_string}}</div>
