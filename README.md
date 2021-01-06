@@ -18,7 +18,9 @@
 
 - [timeline of the research](timeline/)
 
+## First service the customer portal will enable: Funding
 
+- [4 scenario when a customer apply for funding: on Day 1 and in the future](/files/Apply-for-fund-4-scenario.pdf) - PDF 06/01/21
 
 <br><br>
 
