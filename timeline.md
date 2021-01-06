@@ -4,7 +4,7 @@ title: Research timeline
 ---
 
 <section id="timeline">
-  <h1>BETA timeline</h1>
+  <h1>Research timeline</h1>
   {% include key.html %}
 
   <ul class="timeline_ul">
@@ -21,7 +21,6 @@ title: Research timeline
             <h2>{{ post.title}}</h2>
             {{ post.excerpt }}
           </div>
-          <!-- <span class="initials">{{ post.initials }}</span> -->
        </li>
     {% endfor %}
   </ul>
