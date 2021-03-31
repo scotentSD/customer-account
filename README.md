@@ -16,6 +16,7 @@
 
 ## User research 2021
 
+Note: most user testing for customer account will be done as part of [FUND](https://scotentsd.github.io/funding/timeline/) or [Opportunity Management](https://scotentsd.github.io/opportunity/timeline/) user testing. 
 - [Timeline of the research](timeline/)
 - [Timeline of the research - summary](timeline_summary/)
 
