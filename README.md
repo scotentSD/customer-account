@@ -13,7 +13,7 @@
 
 - [Summary of the research](research2017-20/)
 - [High level user needs](user-needs/)
-- [Customer account story map](/customer-account/files/Customer Portal Account Discovery - Customer Account Story Map.pdf) (PDF)
+- [Customer account story map](/customer-account/files/Customer_Account_Story_Map.pdf) (PDF)
 
 ## User research 2021
 
