@@ -14,7 +14,6 @@
 - [Summary of the research](research2017-20/)
 - [High level user needs](user-needs/)
 - [Customer account story map](/customer-account/files/Customer_Account_Story_Map.pdf) (PDF)
-- [Customer account creation for funding](/customer-account/files/Customer_account_creation_for_Funding.pdf)
 
 
 ## User research 2021
