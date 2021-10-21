@@ -8,8 +8,4 @@
 
 Read the current research on [Customer Account and Portal](https://scotent.notion.site/scotent/Customer-Portal-6f233d5d4b7c42bf8d49200b5fbc8460) 
 
-
-Read the current research on: <a href="Customer Account and Portal">Customer Account and Portal</a>
-
-
 <link rel="canonical" href="http://example.com/">
