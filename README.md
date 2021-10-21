@@ -8,5 +8,4 @@
 
 <h2>Read [Customer Account and Portal current research on our Notion site](https://scotent.notion.site/scotent/Customer-Portal-6f233d5d4b7c42bf8d49200b5fbc8460) </h2>
 
-
 <link rel="canonical" href="http://example.com/">
