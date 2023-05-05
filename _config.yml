@@ -1,8 +1,8 @@
 theme: jekyll-theme-slate
-title: Customer Portal Account
+title: Customer Platform
 description: An enabler for other services
 excerpt_separator: "<!--more-->"
-baseurl: "/customer-account/"
+baseurl: "/customer-platform/"
 permalink: /:title/
 # The release of Jekyll Now that you're using
 version: v1.2.0
@@ -14,8 +14,8 @@ plugins:
   
 prose:
   rooturl: ''
-  siteurl: 'http://scotentSD.github.io/customer-account/'
-  relativeLinks: 'http://scotentSD.github.io/customer-account/links.jsonp'
+  siteurl: 'http://scotentSD.github.io/customer-platform/'
+  relativeLinks: 'http://scotentSD.github.io/customer-platform/links.jsonp'
   media: 'files'
   ignore: [links.jsonp,_config.yml ,media ,assets ,_sass ,_layouts, _includes, _flist, images,_drafts , mktest, data.json, data2.json, data2.jsonp, timeline.css, links_copy.jsonp]
   metadata:
@@ -72,4 +72,4 @@ prose:
     - name: "return_url"
       field:
         element: "hidden"
-        value: "https://scotentsd.github.io/customer-account/timeline/"
+        value: "https://scotentsd.github.io/customer-platform/timeline/"
