@@ -1,9 +1,9 @@
-# Customer Portal Account
+# Customer Platform
 
 ## Context
-- There has been previous work done on a customer portal account in the last years. 
-- Many of our services requires an account in one form or another, and we can’t keep create different accounts for each of them
-- Having a single account for our customers makes things easier for them but also for us as it will be easier to maintain
+- The customer platform is a means for client-facing staff to interact and communicate with customers
+- It will consist of a suite of Power Platform apps which can read and write to the dataverse
+- The first application of this solution will look at our Scaling Services team's onboarding process
 
 
 Read: [Customer Account and Portal, current research on our Notion site](https://scotent.notion.site/scotent/Customer-Portal-6f233d5d4b7c42bf8d49200b5fbc8460)
